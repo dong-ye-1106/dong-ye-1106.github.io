@@ -45,7 +45,7 @@ function initKlif() {
 //------------------------------init countdown-----------------------
 
 	$('.countdown').downCount({
-		date: '09/12/2022 12:33:00', // your date
+		date: '01/12/2020 00:00:00', // your date
 		offset: +10
 	});	
 	
